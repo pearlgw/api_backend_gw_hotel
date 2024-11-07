@@ -16,6 +16,7 @@ git clone https://github.com/pearlgw/api_backend_gw_hotel.git
 
 ```bash
 cd api_backend_gw_hotel
+cp .env.example .env
 ```
 
 ### Langkah 3: Instalasi Dependensi
