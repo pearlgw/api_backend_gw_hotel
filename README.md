@@ -10,12 +10,12 @@ Panduan ini menjelaskan langkah-langkah untuk menjalankan proyek Laravel yang te
 Langkah pertama adalah meng-clone repository proyek dari GitHub ke mesin lokal Anda. Jalankan perintah berikut di terminal:
 
 ```bash
-git clone https://github.com/pearlgw/api_backend_order_eat_laravel.git
+git clone https://github.com/pearlgw/api_backend_gw_hotel.git
 ```
 ### Langkah 2: Menyalin File .env
 
 ```bash
-cd api_backend_order_eat_laravel
+cd api_backend_gw_hotel
 ```
 
 ### Langkah 3: Instalasi Dependensi
